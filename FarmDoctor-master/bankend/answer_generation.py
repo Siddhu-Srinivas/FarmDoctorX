@@ -275,6 +275,11 @@ def retrieve_documents(query, k=None, validate_quality=True):
     warnings = []
     
     try:
+        # Performance: Don't load embedding model if in DEMO_MODE and we don't have enough RAM
+        if DEMO_MODE:
+            logger.info("Demo mode: Skipping vector store initialization to save RAM.")
+            return {"documents": [], "metrics": {"avg_score": 0}, "warnings": ["Demo mode active"]}
+
         db = PineconeVectorStore(
             index_name=INDEX_NAME,
             embedding=get_embedding_model()
