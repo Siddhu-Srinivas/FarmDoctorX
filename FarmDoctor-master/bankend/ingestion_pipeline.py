@@ -19,7 +19,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Configuration constants - MUST match answer_generation.py
-EMBEDDING_MODEL_NAME = "paraphrase-multilingual-MiniLM-L12-v2"  # CRITICAL: Must match answer_generation.py
+EMBEDDING_MODEL_NAME = "intfloat/multilingual-e5-small"  # LIGHTWEIGHT: Fits in 512MB RAM
 EMBEDDING_DIMENSION = 384
 CHUNK_SIZE = INGESTION_CONFIG["chunk_size"]  # Updated from 500
 CHUNK_OVERLAP = INGESTION_CONFIG["chunk_overlap"]  # Updated from 100

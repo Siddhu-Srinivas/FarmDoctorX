@@ -23,7 +23,7 @@ load_dotenv(dotenv_path=os.path.join(os.path.dirname(__file__), '.env'))
 # Configuration constants
 DEFAULT_MODEL = "llama-3.1-8b-instant"  # Using 8B model to stay within your Groq daily token limits
 FALLBACK_MODEL = "mixtral-8x7b-32768"  # Available fallback model
-DEFAULT_EMBEDDING_MODEL = "paraphrase-multilingual-MiniLM-L12-v2"
+DEFAULT_EMBEDDING_MODEL = "intfloat/multilingual-e5-small"
 INDEX_NAME = "farmsdoctor-rag"
 DEFAULT_K = 5
 MAX_RETRIES = 3
