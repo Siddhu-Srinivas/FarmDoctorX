@@ -1,0 +1,107 @@
+timestamp,query,demo_mode,docs_retrieved,retrieval_score,confidence_score,mode,language,solution_type,response_length,has_sources,user_feedback,notes
+2026-04-04T23:07:48.938305,What are the symptoms of wheat rust disease?,False,5,0.772,0.8888,,English,Both,2367,True,,
+2026-04-04T23:08:27.651042,What are the symptoms of wheat rust disease?,False,5,0.772,0.8888,,English,Both,2367,True,,
+2026-04-04T23:20:54.960957,What is wheat rust disease and how to control it?,False,5,0.784,0.8136,,English,Both,2223,False,,
+2026-04-04T23:21:31.277789,How to control tomato blight?,False,5,0.72,0.788,,English,Organic Only,1581,False,,
+2026-04-04T23:49:27.132439,गेहूं wheat में रस्ट rust रोग disease कैसे नियंत्रित करें?,False,5,0.7375,0.7949999999999999,,Hindi,Both,2127,False,,
+2026-04-15T18:48:30.585272,rice disease,False,5,0.7525000000000001,0.801,,English,Both,2847,False,,
+2026-04-15T18:48:36.538292,rice disease,False,5,0.7525000000000001,0.801,,English,Both,3746,False,,
+2026-04-15T18:50:19.935310,how many crop are read,False,5,0.7157894736842105,0.7863157894736842,,English,Both,3227,False,,
+2026-04-15T18:57:41.892293,what is rice,False,5,0.7490909090909091,0.7996363636363637,,English,Direct Answer,2831,False,,
+2026-04-16T04:07:44.606202,how many crop is farm ,False,5,0.8,0.8200000000000001,,English,Both,3331,False,,
+2026-04-16T04:08:21.392991,how many u know crops from a datset,False,5,0.7514285714285714,0.8005714285714286,,English,Both,3863,False,,
+2026-04-16T04:28:06.510630,"""How many crops are in the database?",False,5,0.7375,0.7949999999999999,,English,Both,2889,False,,
+2026-04-16T04:30:30.266692,how many crop are dealing u?,False,5,0.742,0.7968,,English,Both,2879,False,,
+2026-04-16T04:33:24.434879,List all the diseases in the database,False,5,0.736,0.7944,,English,Both,3584,False,,
+2026-04-16T04:38:09.845831,What is the pH level for cotton?,False,5,0.7472340425531915,0.7988936170212766,,English,Both,3096,False,,
+2026-04-16T04:41:57.609930,What is the pH level for cotton? ,False,5,0.79,0.8160000000000001,,English,Both,3441,False,,
+2026-04-16T04:42:35.196852,"My maize crop has yellow spots on leaves, what should I do?",False,5,0.7295187165775401,0.7918074866310161,,English,Organic Only,2511,False,,
+2026-04-16T04:43:23.810791,How many crops are available in our database?,False,5,0.7195348837209303,0.7878139534883721,,English,Organic Only,2564,False,,
+2026-04-16T05:21:23.597525,"My maize crop has yellow spots on leaves, what should I do?",False,5,0.7857142857142857,0.8142857142857143,,English,Both,2144,False,,
+2026-04-16T05:23:23.822445,What is the pH level for cotton?,False,5,0.79,0.8160000000000001,,English,Both,2187,False,,
+2026-04-16T05:43:06.926463,How many crops are in the database,False,50,0,0.25,GLOBAL,English,Both,163,True,,Process time: 14.07s
+2026-04-16T05:43:35.781041,check it,False,0,0,0.27,GENERAL,English,Both,342,False,,Process time: 0.74s
+2026-04-16T05:44:24.913526,rice disease,False,5,0.7284482758620691,0.5413793103448277,DIRECT,English,Both,228,True,,Process time: 3.89s
+2026-04-16T05:45:01.344472,How many crops are in the database,False,50,0,0.25,GLOBAL,English,Both,163,True,,Process time: 2.72s
+2026-04-16T05:45:20.108976,What is the pH level for cotton?,False,5,0.78,0.562,DIRECT,English,Both,103,True,,Process time: 3.08s
+2026-04-16T05:47:18.439251,rice ,False,0,0,0.27,GENERAL,English,Both,342,False,,Process time: 0.68s
+2026-04-16T05:47:24.378019,rice disease,False,0,0,0.27,GENERAL,English,Both,342,False,,Process time: 0.62s
+2026-04-16T05:53:50.279211,hi,False,0,0,0.27,GENERAL,English,Both,342,False,,Process time: 0.75s
+2026-04-16T05:53:57.745802,rice disease,False,0,0,0.27,GENERAL,English,Both,342,False,,Process time: 0.84s
+2026-04-16T05:54:26.879731,wheat disease,False,5,0.7368750000000001,0.5447500000000001,DIRECT,English,Both,233,True,,Process time: 15.65s
+2026-04-16T05:55:06.338039,how to prevent ,False,5,0.724,0.7896000000000001,ADVISORY,English,Both,2538,True,,Process time: 5.31s
+2026-04-16T05:57:57.206632,rice disease,False,5,0.8800000000000001,0.6020000000000001,ADVISORY,English,Both,0,True,,Process time: 17.70s
+2026-04-16T05:59:41.344572,How many crops are in the database,False,50,0,0.25,GLOBAL,English,Both,92,True,,Process time: 3.56s
+2026-04-16T05:59:53.816542,What is the pH level for cotton?,False,5,0.748,0.6192,DIRECT,English,Both,545,True,,Process time: 3.67s
+2026-04-16T06:02:33.342663,rice disease,False,50,0,0.25,GLOBAL,English,Both,92,True,,Process time: 14.17s
+2026-04-16T06:06:48.575038,rice disease,False,30,0,0.25,GLOBAL,English,Both,179,True,,Process time: 14.09s
+2026-04-16T06:19:19.677322,rice,False,0,0,0.27,GENERAL,English,Both,342,False,,Process time: 1.06s
+2026-04-16T06:19:42.876536,crop,False,30,0,0.25,GLOBAL,English,Both,193,True,,Process time: 19.52s
+2026-04-16T06:23:15.319299,rice disease,False,30,0,0.25,GLOBAL,English,Both,193,True,,Process time: 14.13s
+2026-04-16T06:24:18.579291,rice,False,0,0,0.27,GENERAL,English,Both,342,False,,Process time: 0.71s
+2026-04-16T06:24:32.307085,"""How to manage rust in wheat crop?""	""How to manage rust in wheat crop?""	",False,5,0.7190540540540541,0.6076216216216217,ADVISORY,English,Both,729,True,,Process time: 3.91s
+2026-04-16T06:26:13.156544,how many crops,False,30,0,0.25,GLOBAL,English,Both,193,True,,Process time: 2.66s
+2026-04-16T06:26:42.357732,what is another name of rice,False,5,0.7125,0.535,DIRECT,English,Both,37,True,,Process time: 3.17s
+2026-04-16T06:26:52.605243,wheat,False,30,0,0.25,GLOBAL,English,Both,193,True,,Process time: 2.79s
+2026-04-16T06:27:11.002588,what is another name of wheat,False,5,0.748,0.5492,DIRECT,English,Both,111,True,,Process time: 3.04s
+2026-04-16T06:27:40.068835,how to prvent a disease of rice ,False,5,0.7261068702290077,0.6404427480916031,ADVISORY,English,Both,1381,True,,Process time: 3.71s
+2026-04-16T06:30:27.432257,rice,False,0,0,0.27,GENERAL,English,Organic Only,342,False,,Process time: 0.85s
+2026-04-16T06:38:13.375314,rice,False,5,1.0,0.68,CROP_INFO,English,Organic Only,796,True,,Process time: 15.32s
+2026-04-16T06:39:44.268674,how much ph value in rice,False,5,0.7202702702702702,0.6081081081081081,CROP_INFO,English,Organic Only,731,True,,Process time: 3.71s
+2026-04-16T06:40:54.040887,how to prevent a rice from disease,False,5,0.7257142857142858,0.6102857142857143,ADVISORY,English,Organic Only,512,True,,Process time: 3.71s
+2026-04-16T06:41:21.582886,What are the climate requirements for rice cultivation?,False,5,0.7269230769230769,0.6107692307692307,CROP_INFO,English,Organic Only,775,True,,Process time: 3.69s
+2026-04-16T06:42:15.667458,"Write in detail about short-duration rice varieties (CO 51, MDU 6, TPS 5).",False,5,0.7332773109243698,0.6133109243697479,CROP_INFO,English,Organic Only,761,True,,Process time: 3.87s
+2026-04-16T06:42:37.809527,"Write in detail about short-duration rice varieties (CO 51, MDU 6, TPS 5).",False,5,0.7224242424242424,0.638969696969697,CROP_INFO,English,Both,1032,True,,Process time: 3.85s
+2026-04-16T06:43:35.885829,what is a crop,False,5,0.7256,0.54024,DIRECT,English,Both,145,True,,Process time: 3.39s
+2026-04-16T06:44:56.084600,what can u do me ?,False,0,0,0.27,GENERAL,English,Both,342,False,,Process time: 1.12s
+2026-04-16T06:49:31.175680,rice disease,False,30,0,0.25,GLOBAL,English,Both,193,True,,Process time: 15.67s
+2026-04-16T06:49:49.733754,disease,False,30,0,0.25,GLOBAL,English,Both,193,True,,Process time: 2.68s
+2026-04-16T06:51:57.201058,"Write in detail about short-duration rice varieties (CO 51, MDU 6, TPS 5).",False,5,0.7190344827586207,0.6876137931034483,CROP_INFO,English,Both,1512,True,,Process time: 4.65s
+2026-04-16T06:53:34.004507,Name any two short-duration rice varieties.,False,5,0.775,0.5800000000000001,CROP_INFO,English,Both,393,True,,Process time: 14.60s
+2026-04-16T06:56:09.143919,"A rice field shows yellowing of leaves starting from tips, wilting, and drying.",False,5,0.7525000000000001,0.671,CROP_INFO,English,Both,980,True,,Process time: 3.99s
+2026-04-16T06:56:38.840533,"Rice plants show white, empty grains (chaffy grains) and poor grain filling.",False,5,0.7035789473684211,0.6514315789473685,CROP_INFO,English,Both,773,True,,Process time: 5.00s
+2026-05-05T17:21:20.402949,hi,False,5,0.6839999999999999,0.7836,CROP_INFO,English,Both,616,True,,Process time: 11.73s
+2026-05-05T17:23:37.383183,rice?,False,5,0.7,0.79,CROP_INFO,English,Both,619,True,,Process time: 2.32s
+2026-05-05T17:24:57.174295,hi,False,5,0.6839999999999999,0.7836,CROP_INFO,English,Both,616,True,,Process time: 2.21s
+2026-05-05T18:15:54.713185,how to treat rice blast,False,5,0.8400000000000001,0.8460000000000001,ADVISORY,English,Both,648,True,,Process time: 13.59s
+2026-05-05T19:05:20.658939,rice?,False,5,0.7,0.65,CROP_INFO,English,Both,780,True,,Process time: 13.19s
+2026-05-05T19:06:48.537403,yellowish pappy,False,5,0.7373170731707317,0.6649268292682927,CROP_INFO,English,Both,857,True,,Process time: 3.42s
+2026-05-05T19:16:13.679539,how many rice is exsit?,False,30,0,0.25,GLOBAL,English,Both,193,True,,Process time: 13.21s
+2026-05-05T19:16:47.158830,rice/,False,5,0.7234375000000001,0.659375,CROP_INFO,English,Both,914,True,,Process time: 3.27s
+2026-05-05T19:21:09.646340,what is irrigation? ,False,5,0.7731578947368422,0.5592631578947369,DIRECT,English,Both,179,True,,Process time: 2.97s
+2026-05-05T19:21:32.703951,how much time is take to complete that process,False,0,0,0.27,GENERAL,English,Both,342,False,,Process time: 0.91s
+2026-05-05T19:25:03.258229,rice?,False,5,0.7261818181818182,0.6904727272727272,CROP_INFO,English,Both,1584,True,,Process time: 4.06s
+2026-05-05T19:25:52.026403,wheat,False,5,0.7308411214953271,0.6623364485981308,CROP_INFO,English,Organic Only,897,True,,Process time: 3.69s
+2026-05-05T19:40:07.693423,rice,False,5,0.7304761904761905,0.6621904761904762,CROP_INFO,English,Organic Only,982,True,,Process time: 3.25s
+2026-05-05T19:41:10.854538,wheat,False,5,0.7334020618556701,0.6633608247422681,CROP_INFO,English,Organic Only,749,True,,Process time: 3.43s
+2026-05-05T19:42:20.647507,rice,False,5,0.7543157894736842,0.7517263157894737,CROP_INFO,English,Both,1150,True,,Process time: 3.56s
+2026-05-05T19:52:36.315920,what is the disease of the rice crop,False,30,0,0.25,GLOBAL,English,Both,193,True,,Process time: 2.89s
+2026-05-05T19:52:51.217611,how to prevent the rice disease,False,5,0.7328571428571429,0.6931428571428572,ADVISORY,English,Both,1167,True,,Process time: 4.07s
+2026-05-05T20:02:05.974936,ric,False,5,0.7276923076923077,0.6610769230769231,CROP_INFO,English,Both,882,True,,Process time: 3.47s
+2026-05-05T20:03:50.213652,rice,False,5,0.7183471074380166,0.6873388429752066,CROP_INFO,English,Both,1661,True,,Process time: 6.46s
+2026-05-05T20:04:25.267764,rice,False,5,0.7161290322580645,0.6864516129032258,CROP_INFO,Hindi,Both,1169,True,,Process time: 10.37s
+2026-05-05T20:05:20.942285,wheat,False,5,0.6997894736842105,0.6299157894736842,CROP_INFO,Telugu,Both,1299,True,,Process time: 40.45s
+2026-05-05T20:12:01.829990,rice,False,5,1.0,0.81,CROP_INFO,English,Both,1449,True,,Process time: 14.44s
+2026-05-05T20:12:15.842217,rice,False,5,0.7268085106382978,0.6107234042553191,CROP_INFO,Hindi,Both,962,True,,Process time: 4.13s
+2026-05-05T20:12:57.884741,wheat,False,5,0.7,0.6,CROP_INFO,Telugu,Both,859,True,,Process time: 31.95s
+2026-05-05T21:36:20.000020,explain the rice,False,5,0.85,0.79,CROP_INFO,English,Both,2753,True,,Process time: 24.22s
+2026-05-05T21:36:38.977777,wheat,False,5,0.719468085106383,0.6377872340425532,CROP_INFO,Hindi,Both,2076,True,,Process time: 5.10s
+2026-05-05T21:37:28.079825,rice,False,5,0.7,0.63,CROP_INFO,Telugu,Both,1232,True,,Process time: 41.18s
+2026-05-05T21:39:08.594619,rice,False,5,0.7,0.5800000000000001,CROP_INFO,Marathi,Both,3461,True,,Process time: 91.71s
+2026-05-05T21:40:23.110184,wheat,False,5,0.9400000000000001,0.7100000000000001,CROP_INFO,Tamil,Both,1511,True,,Process time: 5.47s
+2026-05-05T21:41:00.788318,hi,False,5,0.7,0.63,CROP_INFO,Kannada,Both,1202,True,,Process time: 25.56s
+2026-05-05T22:19:05.266709,rice,False,5,1.0,0.76,CROP_INFO,English,Both,2549,True,,Process time: 3.96s
+2026-05-05T22:19:34.834132,wheat ,False,5,0.9400000000000001,0.7100000000000001,CROP_INFO,Hindi,Both,2973,True,,Process time: 4.65s
+2026-05-05T22:20:51.329810,rice,False,5,1.0,0.7100000000000001,CROP_INFO,Telugu,Both,1238,True,,Process time: 5.24s
+2026-05-05T22:27:53.771163,wheat,False,5,0.9400000000000001,0.7100000000000001,CROP_INFO,Telugu,Both,1227,True,,Process time: 17.09s
+2026-05-05T22:31:40.369497,hi,False,5,0.7,0.63,CROP_INFO,Telugu,Both,1138,True,,Process time: 16.06s
+2026-05-05T22:32:58.507762,how to protect rice yelllowsih,False,5,0.8400000000000001,0.686,CROP_INFO,Hindi,Both,2695,True,,Process time: 14.38s
+2026-05-05T22:33:37.096748,abc,False,5,0.7,0.68,CROP_INFO,English,Both,3230,True,,Process time: 4.29s
+2026-05-05T22:35:13.952111,hi,False,5,0.7,0.63,CROP_INFO,Tamil,Both,1602,True,,Process time: 15.58s
+2026-05-05T22:36:08.013855,wwgf],False,5,0.7,0.63,CROP_INFO,Tamil,Both,1551,True,,Process time: 5.10s
+2026-05-05T22:36:47.472233,esd,False,5,0.7,0.73,CROP_INFO,English,Both,3833,True,,Process time: 35.03s
+2026-05-05T22:39:26.408509,ij,False,5,0.7,0.73,CROP_INFO,English,Both,3064,True,,Process time: 3.57s
+2026-05-05T22:40:07.969834,ijkjlskflklsfkljgfs,False,5,0.7,0.73,CROP_INFO,English,Both,2337,True,,Process time: 13.93s
+2026-05-05T22:42:19.824854,"hihjfkojrijofjklkgl;rm,mgltev'",False,5,0.7150000000000001,0.7360000000000001,CROP_INFO,English,Both,2255,True,,Process time: 3.55s
+2026-05-05T22:44:31.305942,sdjfj,False,5,0.7035294117647058,0.7314117647058823,CROP_INFO,English,Both,2246,True,,Process time: 3.59s
+2026-05-05T22:45:06.874175,fjkfjkdkosfkerjigjijfs,False,5,0.7,0.78,CROP_INFO,English,Both,2320,True,,Process time: 14.11s

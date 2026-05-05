@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Agricultural Color Scheme */
+:root {
+  --color-soil-dark: #3d2817;
+  --color-soil: #6b5344;
+  --color-earth: #a68863;
+  --color-crop-green: #2d5016;
+  --color-field-green: #3d6b2f;
+  --color-leaf-green: #4a9d6f;
+  --color-sky-blue: #87ceeb;
+  --color-sun-gold: #f4d03f;
+  --color-water: #4a90e2;
+}
+
+html, body, #root {
+  height: 100%;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #f0f4e8 0%, #e8f2e0 100%);
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', serif;
+  color: var(--color-crop-green);
+  font-weight: 700;
+}
+
+/* Smooth transitions */
+* {
+  transition: all 0.3s ease;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f0f4e8;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-crop-green);
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-field-green);
+}

@@ -1,0 +1,25 @@
+# Core dependencies
+fastapi
+uvicorn
+python-dotenv
+
+# RAG pipeline dependencies
+langchain-community 
+langchain-text-splitters
+langchain-pinecone
+pinecone-client
+langchain-groq
+langchain-core
+langchain-chroma
+langchain-experimental
+langchain-openai
+
+# Embedding models
+transformers
+sentence-transformers
+
+# Weather API
+requests
+
+# Database
+# sqlite3 is included in Python standard library and should not be installed via pip
