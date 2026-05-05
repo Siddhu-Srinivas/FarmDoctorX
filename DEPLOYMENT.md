@@ -18,13 +18,23 @@ Recommended: [Render](https://render.com) or [Railway](https://railway.app)
 ---
 
 ## 2. Frontend (React + Vite)
-Recommended: [Vercel](https://vercel.com)
+### Option A: Netlify (Recommended)
+1. **Connect GitHub**: Log in to [Netlify](https://app.netlify.com) and click **Add new site > Import from existing project**.
+2. **Site Settings**:
+   - **Base directory**: `FarmDoctor-master/frontend` (or just `frontend` if your repo root is the project folder).
+   - **Build command**: `npm run build`
+   - **Publish directory**: `dist`
+3. **Environment Variables**:
+   - Go to **Site Configuration > Environment variables**.
+   - Add `VITE_API_URL`: Your **Backend URL** (e.g., `https://farmdoctor-api.onrender.com`).
+4. **Deploy**: Netlify will use the `netlify.toml` I just created for you!
 
+### Option B: Vercel
 1. **Import Project**: Link your GitHub repository.
 2. **Framework Preset**: Select `Vite`.
 3. **Root Directory**: Set it to `frontend`.
 4. **Environment Variables**:
-   - `VITE_API_URL`: Set this to your **Backend URL** (e.g., `https://farmdoctor-api.onrender.com`).
+   - `VITE_API_URL`: Set this to your **Backend URL**.
 5. **Deploy**: Click Deploy!
 
 ---
